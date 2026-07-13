@@ -719,7 +719,7 @@ export const products: Product[] = [
   {
     id: "health-liv-ease-500",
     name: "Liv-Ease (500ml)",
-    image: "/products/healthcare/livEase_500ml.webp",
+    image: "/products/healthcare/LivEase_500ml.webp",
     description: "Liver support syrup - value pack.",
     category: "Healthcare",
     subcategory: "Ayurvedic",
