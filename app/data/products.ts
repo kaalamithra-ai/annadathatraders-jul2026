@@ -239,7 +239,7 @@ export const products: Product[] = [
  {
    id: "health-Astheal Cough-syrup-100",
    name: "Astheal Syrup (100ml)",
-   image: "/products/healthcare/Astheal_coughSyrup.webp",
+   image: "/products/healthcare/Astheal_CoughSyrup.webp",
    description: "Ayurvedic syrup for cardiovascular health.",
    category: "Healthcare",
    subcategory: "Ayurvedic",
@@ -255,7 +255,7 @@ export const products: Product[] = [
   {
     id: "health-adila-forte-30",
     name: "Adila Forte (30 Tab)",
-    image: "/products/healthcare/Adilaforte_30Tab.webp",
+    image: "/products/healthcare/AdilaForte_30Tab.webp",
     description: "Ayurvedic supplement for women's hormonal balance.",
     category: "Healthcare",
     subcategory: "Women's Health",
@@ -575,7 +575,7 @@ export const products: Product[] = [
   {
     id: "health-gopiles-tabs",
     name: "GoPiles (60 Tabs)",
-    image: "/products/healthcare/GOPiles_60Tab.webp",
+    image: "/products/healthcare/GoPiles_60Tab.webp",
     description: "Ayurvedic piles management supplement.",
     category: "Healthcare",
     subcategory: "Ayurvedic",
