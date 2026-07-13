@@ -895,7 +895,7 @@ export const products: Product[] = [
 {
   id: "health-quick-6-pain-relief-gel",
   name: "Quick 6 Pain Relief Gel (30g)",
-  image: "/products/healthcare/Quick6painReliefGel.webp",
+  image: "/products/healthcare/Quick6PainReliefGel.webp",
   description: "Curind’s Quick 6 Pain Relief Gel is a fast-acting, deep-penetrating topical formula designed to provide rapid relief from muscle aches, joint pains, and inflammation.",
   category: "HEALTH CARE",
   subcategory: "Wellness",
