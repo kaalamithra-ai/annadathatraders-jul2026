@@ -255,7 +255,7 @@ export default function ProductPage({
                   <div className="space-y-3 text-sm">
                     <div>
                       <p className="opacity-80">WhatsApp Support</p>
-                      <p className="font-semibold">+91 7349656549</p>
+                      <p className="font-semibold">+91 7349656529</p>
                     </div>
                     <div>
                       <p className="opacity-80">Email</p>
