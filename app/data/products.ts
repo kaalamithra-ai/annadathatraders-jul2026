@@ -68,7 +68,7 @@ export const products: Product[] = [
     targetProblems: ["Poor Soil Health"],
     dosage: "1 ltr in 200 litres of water / acre",
     timing: "Apply in an interval of 15 to 20 days",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Improves soil structure","Enhances moisture retention","Promotes root development","Increases nutrient uptake"],
     benefits: ["Retains moisture & nutrients","Improves soil absorption","Enhances root penetration","Supports microbial life"]
   },
@@ -84,7 +84,7 @@ export const products: Product[] = [
     targetProblems: ["Lack of Milk Production"],
     dosage: "60-70 ml per day per animal",
     timing: "Mix with feed daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Enhanced Digestibility","Supports Overall Health","Holistic Animal Wellness","Prevents Calcium Deficiency"],
     benefits: ["Boosts milk production","Strengthens bones and immunity","Improves digestion","Supports reproductive health"]
   },
@@ -100,7 +100,7 @@ export const products: Product[] = [
     targetProblems: ["Low Crop Yields"],
     dosage: "2kg per acre",
     timing: "Apply two times at 15-20 days interval",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Improves Soil Fertility","Enhances Nutrient Uptake","Improves Root Development","Promotes Healthy Plant Growth"],
     benefits: ["Increases crop yield","Boosts root formation","Improves nutrient uptake","Enhances crop quality"]
   },
@@ -116,7 +116,7 @@ export const products: Product[] = [
     targetProblems: ["Poor Germination","Plant Stress"],
     dosage: "10 g per kg of seed",
     timing: "Treat seeds before sowing",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Supports healthy plant growth","Enhances soil health","Boosts nutrient availability","Enzymatic action"],
     benefits: ["Speeds up decomposition","Enhances soil fertility","Boosts plant growth","Increases nutrient availability"]
   },
@@ -132,7 +132,7 @@ export const products: Product[] = [
     targetProblems: ["Pest Infestation","Rice Blast"],
     dosage: "Mix 30 ml with 15 liters of water",
     timing: "Use every 15 days",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Controls sucking pests","Complete insect protection","Natural eco-friendly","Promotes plant growth"],
     benefits: ["Targets sucking pests","Reduces pest stress","Promotes vigorous growth","Safe for organic farming"]
   },
@@ -148,7 +148,7 @@ export const products: Product[] = [
     targetProblems: ["Poor Spray Coverage"],
     dosage: "Mix 10ml per 15 liters of water",
     timing: "Mix with pesticide spray",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Uniform spray coverage","Improves pesticide penetration","Reduces spray loss","Enhances effectiveness"],
     benefits: ["Ensures uniform coverage","Improves penetration","Reduces wastage","Better results"]
   },
@@ -164,7 +164,7 @@ export const products: Product[] = [
     targetProblems: ["Poor Growth","Flowering Issues"],
     dosage: "As recommended",
     timing: "During growth stages",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Enhances plant growth","Boosts resistance","Seaweed extracts","Strong root development"],
     benefits: ["Enhances flower/fruit","Boosts growth","Improves shelf life","Essential nutrients"]
   },
@@ -180,7 +180,7 @@ export const products: Product[] = [
     targetProblems: ["Poor Growth","Plant Nutrition"],
     dosage: "As recommended",
     timing: "During growth stages",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Nitrogen-rich","Boosts resistance","Natural extracts","Root development"],
     benefits: ["Improves leaf growth","Enhances flowering/yield","Supports photosynthesis","Increases productivity"]
   },
@@ -196,7 +196,7 @@ export const products: Product[] = [
     targetProblems: ["Low Yield","Poor Fruiting"],
     dosage: "As recommended",
     timing: "During sowing/growth",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Blue-Green Algae based","Suitable for vegetables","Enhances seed germination","Promotes growth"],
     benefits: ["Faster growth","Improves fruiting","Enhances crop quality","Boosts stress resistance"]
   },
@@ -216,7 +216,7 @@ export const products: Product[] = [
     targetProblems: ["Heart Health"],
     dosage: "1 tablet twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural formulation","Supports heart","Clinically tested","No side effects"],
     benefits: ["Cardiovascular support","Maintains BP","Improves circulation","Heart wellness"]
   },
@@ -232,7 +232,7 @@ export const products: Product[] = [
     targetProblems: ["Heart Health","Weakness"],
     dosage: "20ml twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural formula","Easy to consume","Heart health","No colors"],
     benefits: ["Strengthens heart","Improves circulation","Boosts energy","Overall vitality"]
   },
@@ -248,7 +248,7 @@ export const products: Product[] = [
   targetProblems: ["Heart Health", "Weakness"],
   dosage: "20ml twice daily",
   timing: "After meals",
-  supplier: "Annadatha Traders",
+  supplier: "Annadaata Traders",
   features: ["Natural formula", "Easy to consume", "Heart health", "No colors"],
   benefits: ["Strengthens heart", "Improves circulation", "Boosts energy", "Overall vitality"]
 },
@@ -264,7 +264,7 @@ export const products: Product[] = [
     targetProblems: ["Women's Health","Hormonal Imbalance"],
     dosage: "1 tablet daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Balances hormones","Clinically tested","Safe"],
     benefits: ["Women's health","Hormone balance","Better well-being","Enhanced vitality"]
   },
@@ -280,7 +280,7 @@ export const products: Product[] = [
     targetProblems: ["Women's Health","Hormonal Imbalance"],
     dosage: "1 tablet daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Balances hormones","Economy pack","Clinically tested"],
     benefits: ["Women's health","Hormone balance","Better value","Enhanced vitality"]
   },
@@ -296,7 +296,7 @@ export const products: Product[] = [
     targetProblems: ["Weight Management","Slow Metabolism"],
     dosage: "1 tablet twice daily",
     timing: "Before meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural formula","Boosts metabolism","Controls appetite","Fat burning"],
     benefits: ["Supports weight loss","Boosts metabolism","Controls cravings","Healthy digestion"]
   },
@@ -312,7 +312,7 @@ export const products: Product[] = [
     targetProblems: ["Weight Management"],
     dosage: "1 tablet twice daily",
     timing: "Before meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural formula","Boosts metabolism","Controls appetite","Fat burning"],
     benefits: ["Weight support","Better metabolism","Controls cravings","Good digestion"]
   },
@@ -328,7 +328,7 @@ export const products: Product[] = [
     targetProblems: ["Liver Health","Detoxification"],
     dosage: "1 tablet twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Liver support herbs","Detoxification","Protects liver","Clinically tested"],
     benefits: ["Liver support","Natural detox","Better digestion","More energy"]
   },
@@ -344,7 +344,7 @@ export const products: Product[] = [
     targetProblems: ["Nutritional Deficiency"],
     dosage: "2 scoops with milk/water",
     timing: "Meal replacement",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Complete nutrition","Protein rich","Vitamins & minerals","Great taste"],
     benefits: ["Balanced nutrition","Weight management","Energy boost","Convenient"]
   },
@@ -360,7 +360,7 @@ export const products: Product[] = [
     targetProblems: ["Stress","Low Energy"],
     dosage: "1 capsule twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Standardized extract","Vegetarian","Adrenal health","Clinically tested"],
     benefits: ["Reduces stress","Improves stamina","Mental clarity","Adrenal support"]
   },
@@ -376,7 +376,7 @@ export const products: Product[] = [
     targetProblems: ["Respiratory Issues","Allergies"],
     dosage: "1 tsp twice daily",
     timing: "With warm milk/water",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbal","Respiratory support","Antioxidants","Seasonal wellness"],
     benefits: ["Respiratory health","Boosts immunity","Allergy relief","Overall vitality"]
   },
@@ -472,7 +472,7 @@ export const products: Product[] = [
     targetProblems: ["Blood Sugar"],
     dosage: "1 tablet twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Sugar control","Pancreatic support","Safe for long-term"],
     benefits: ["Blood sugar mgmt","Metabolism support","Energy boost","Wellness"]
   },
@@ -488,7 +488,7 @@ export const products: Product[] = [
     targetProblems: ["Eye Strain","Dry Eyes"],
     dosage: "1-2 drops per eye",
     timing: "As needed",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural ingredients","Soothing","Sterile","Easy to use"],
     benefits: ["Eye relief","Soothes dryness","Refreshes eyes","Eye health"]
   },
@@ -504,7 +504,7 @@ export const products: Product[] = [
     targetProblems: ["Weak Vision"],
     dosage: "1 capsule daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Lutein & Zeaxanthin","Vitamin A","Antioxidants","Vision support"],
     benefits: ["Better vision","Blue light protection","Reduces fatigue","Long-term health"]
   },
@@ -520,7 +520,7 @@ export const products: Product[] = [
     targetProblems: ["Gas","Bloating"],
     dosage: "15ml after meals",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Quick relief","No side effects","Safe for all"],
     benefits: ["Gas relief","Better digestion","Comfort","Gut health"]
   },
@@ -536,7 +536,7 @@ export const products: Product[] = [
     targetProblems: ["Gas","Bloating"],
     dosage: "15ml after meals",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Quick relief","Family pack","No side effects"],
     benefits: ["Gas relief","Better digestion","Economy","Gut health"]
   },
@@ -552,7 +552,7 @@ export const products: Product[] = [
     targetProblems: ["Low Immunity","Fever"],
     dosage: "1 capsule twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Pure Giloe extract","Immunity boost","Natural antipyretic","Vegetarian"],
     benefits: ["Immunity boost","Manages fever","Fights infection","Better health"]
   },
@@ -568,7 +568,7 @@ export const products: Product[] = [
     targetProblems: ["Inflammation","Joint Pain"],
     dosage: "10 drops twice daily",
     timing: "With water, after meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Nano technology","High absorption","Natural curcumin","Drops"],
     benefits: ["Antioxidant","Anti-inflammatory","Joint health","Immunity"]
   },
@@ -584,7 +584,7 @@ export const products: Product[] = [
     targetProblems: ["Piles","Constipation"],
     dosage: "1 tablet twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Herbal blend","Comfort relief","Digestive health","Clinically tested"],
     benefits: ["Piles relief","Better digestion","Reduces discomfort","Regularity"]
   },
@@ -600,7 +600,7 @@ export const products: Product[] = [
     targetProblems: ["Piles","Digestive Discomfort"],
     dosage: "20ml twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Herbal formula","Easy to consume","Relief","Soothing"],
     benefits: ["Piles relief","Better bowel","Soothes tract","Healing"]
   },
@@ -616,7 +616,7 @@ export const products: Product[] = [
     targetProblems: ["Anemia","Low Hemoglobin"],
     dosage: "15ml twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Iron-rich","Natural herbs","Energy boost","Absorption"],
     benefits: ["Increases Hb","Reduces fatigue","More energy","Better health"]
   },
@@ -632,7 +632,7 @@ export const products: Product[] = [
     targetProblems: ["Anemia"],
     dosage: "15ml twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Iron-rich","Natural herbs","Energy","Economy pack"],
     benefits: ["Increases Hb","More energy","Family pack","Better health"]
   },
@@ -648,7 +648,7 @@ export const products: Product[] = [
     targetProblems: ["Low Energy","Fatigue"],
     dosage: "1 tablet twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Stamina boost","Vitality","Clinically tested"],
     benefits: ["More energy","Better stamina","Less fatigue","Performance"]
   },
@@ -664,7 +664,7 @@ export const products: Product[] = [
     targetProblems: ["Kids Nutrition"],
     dosage: "2 scoops daily",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Complete nutrition","Vitamins","Great taste","Growth support"],
     benefits: ["Healthy growth","Immunity boost","Better focus","Balanced nutrition"]
   },
@@ -680,7 +680,7 @@ export const products: Product[] = [
     targetProblems: ["Refreshment"],
     dosage: "1 tea bag per cup",
     timing: "Any time",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Traditional recipe","Natural spices","Antioxidants","Tea bags"],
     benefits: ["Refreshes","Antioxidants","Good digestion","Soothing"]
   },
@@ -696,7 +696,7 @@ export const products: Product[] = [
     targetProblems: ["Kidney Health","Urinary"],
     dosage: "1 tsp twice daily",
     timing: "With warm water",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Urinary health","Detoxifying","Traditional"],
     benefits: ["Kidney support","Urinary wellness","Detoxification","Balance"]
   },
@@ -712,7 +712,7 @@ export const products: Product[] = [
     targetProblems: ["Liver Health","Indigestion"],
     dosage: "15ml twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural liver herbs","Digestive support","Detox","Easy syrup"],
     benefits: ["Liver health","Better digestion","Detox","Metabolism"]
   },
@@ -728,7 +728,7 @@ export const products: Product[] = [
     targetProblems: ["Liver Health"],
     dosage: "15ml twice daily",
     timing: "After meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural herbs","Liver support","Value pack","Easy syrup"],
     benefits: ["Liver health","Better digestion","Economy","Detox"]
   },
@@ -1016,7 +1016,7 @@ export const products: Product[] = [
     targetProblems: ["Water Quality"],
     dosage: "As directed",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Water quality","Health boost","Natural minerals","Easy to use"],
     benefits: ["Better hydration","Health support","Mineral water","Wellness"]
   },
@@ -1032,7 +1032,7 @@ export const products: Product[] = [
     targetProblems: ["Water Acidity"],
     dosage: "As directed",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Alkaline water","Negative ions","Removes impurities","Long-lasting"],
     benefits: ["Alkaline balance","Better hydration","Detox support","Energy"]
   },
@@ -1048,7 +1048,7 @@ export const products: Product[] = [
     targetProblems: ["Water Quality"],
     dosage: "10 min in 1 liter",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural minerals","Enhances quality","Reusable","Portable"],
     benefits: ["Better water","Enhanced hydration","Wellness","Eco-friendly"]
   },
@@ -1064,7 +1064,7 @@ export const products: Product[] = [
     targetProblems: ["Water Quality"],
     dosage: "10 min in 1 liter",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural minerals","Enhances quality","Pack of 3","Best value"],
     benefits: ["Better water","Enhanced hydration","Wellness","Best value"]
   },
@@ -1080,7 +1080,7 @@ export const products: Product[] = [
     targetProblems: ["Poor Sleep","Body Pain"],
     dosage: "Use as cover",
     timing: "During sleep",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Bio-Germanium","Magnetic therapy","Deep sleep","Therapeutic"],
     benefits: ["Better sleep","Pain relief","Blood circulation","Relaxation"]
   },
@@ -1096,7 +1096,7 @@ export const products: Product[] = [
     targetProblems: ["Low Energy","Stress"],
     dosage: "Wear daily",
     timing: "On wrist",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Bio-Germanium","Stylish","Therapeutic","Durable"],
     benefits: ["Energy balance","Stress relief","Wellness","Accessory"]
   },
@@ -1116,7 +1116,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Skin","Dull Skin"],
     dosage: "Use as needed",
     timing: "During bath",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Milk protein","Natural","Gentle","Moisturizing"],
     benefits: ["Nourishes","Brightens","Gentle","Soft skin"]
   },
@@ -1132,7 +1132,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Skin"],
     dosage: "Use as needed",
     timing: "During bath",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Value pack","Milk protein","Natural","Gentle"],
     benefits: ["Best value","Nourishes","Gentle","Soft skin"]
   },
@@ -1148,7 +1148,7 @@ export const products: Product[] = [
     targetProblems: ["Skin Infections","Acne"],
     dosage: "Use as needed",
     timing: "During bath",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Neem + Aloe + Tulsi","Antibacterial","Herbal","Pack of 3"],
     benefits: ["Fights infection","Controls acne","Brightens","Herbal care"]
   },
@@ -1164,7 +1164,7 @@ export const products: Product[] = [
     targetProblems: ["Damaged Hair","Dull Hair"],
     dosage: "Use as needed",
     timing: "Hair wash",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Aloevera enriched","Gentle cleanse","Nourishes","Shine"],
     benefits: ["Repairs damage","Adds shine","Nourishes","Silky hair"]
   },
@@ -1180,7 +1180,7 @@ export const products: Product[] = [
     targetProblems: ["Menstrual Hygiene"],
     dosage: "Use as needed",
     timing: "During period",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Ultra-soft","High absorbency","Leak-proof","Breathable"],
     benefits: ["Comfort","Protection","Soft","Confidence"]
   },
@@ -1196,7 +1196,7 @@ export const products: Product[] = [
     targetProblems: ["Menstrual Hygiene"],
     dosage: "Use as needed",
     timing: "During period",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Extra absorbency","Leak-proof","Soft","Breathable"],
     benefits: ["Max protection","Soft skin","Confident","Comfort"]
   },
@@ -1212,7 +1212,7 @@ export const products: Product[] = [
     targetProblems: ["Oral Hygiene"],
     dosage: "Replace 3 months",
     timing: "Twice daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Bamboo handle","BPA-free","Biodegradable","Eco-friendly"],
     benefits: ["Sustainable","Gentle gums","Eco-friendly","Clean"]
   },
@@ -1228,7 +1228,7 @@ export const products: Product[] = [
     targetProblems: ["Dull Skin","Impurities"],
     dosage: "Use daily",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Seabuckthorn","Gentle","Nourishes","Natural"],
     benefits: ["Gentle cleanse","Brightens","Natural","Skin care"]
   },
@@ -1244,7 +1244,7 @@ export const products: Product[] = [
     targetProblems: ["Dull Skin","Uneven Tone"],
     dosage: "Use 2-3x weekly",
     timing: "15 minutes rinse",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Seabuckthorn","Natural","Rejuvenates","Brightening"],
     benefits: ["Brightens","Rejuvenates","Better texture","Natural glow"]
   },
@@ -1260,7 +1260,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Skin","Aging Signs"],
     dosage: "Few drops daily",
     timing: "After cleansing",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Concentrated","Deep nourishment","Quick absorb","Seabuckthorn"],
     benefits: ["Deep nourishment","Reduces aging","Elasticity","Radiant"]
   },
@@ -1276,7 +1276,7 @@ export const products: Product[] = [
     targetProblems: ["Multiple Skin Concerns"],
     dosage: "As per kit",
     timing: "Weekly",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Complete kit","Salon quality","Seabuckthorn","Easy"],
     benefits: ["Complete care","Pro results","Natural","Glowing skin"]
   },
@@ -1292,7 +1292,7 @@ export const products: Product[] = [
     targetProblems: ["Acne","Oily Skin"],
     dosage: "Use daily",
     timing: "Twice daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Anti-acne","Foaming","Removes impurities","Gentle"],
     benefits: ["Clears acne","Controls oil","Deep cleanse","Clear skin"]
   },
@@ -1308,7 +1308,7 @@ export const products: Product[] = [
     targetProblems: ["Aging Signs","Wrinkles"],
     dosage: "Apply at night",
     timing: "Before bed",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Anti-ageing","Night repair","Anti-wrinkle","Nourishing"],
     benefits: ["Youthful skin","Reduces wrinkles","Firms skin","Anti-aging"]
   },
@@ -1324,7 +1324,7 @@ export const products: Product[] = [
     targetProblems: ["Dull Skin","Dryness"],
     dosage: "Few drops daily",
     timing: "After cleansing",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Niacinamide","Hyaluronic Acid","Hydrates","Glow"],
     benefits: ["Brightens","Hydrates","Smooths texture","Glowing skin"]
   },
@@ -1340,7 +1340,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Skin","Dehydration"],
     dosage: "Apply daily",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Hyaluronic Acid","Ceramide","Deep moisture","Non-greasy"],
     benefits: ["24h hydration","Soft skin","Barrier repair","Suitable all types"]
   },
@@ -1356,7 +1356,7 @@ export const products: Product[] = [
     targetProblems: ["Sun Damage","UV Rays"],
     dosage: "Apply adequately",
     timing: "Before sun exposure",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["SPF 50+","UVA/UVB protection","Lightweight","Non-greasy"],
     benefits: ["Sun protection","Prevents tan","No sunburn","Daily care"]
   },
@@ -1372,7 +1372,7 @@ export const products: Product[] = [
     targetProblems: ["Eye Makeup"],
     dosage: "Apply as needed",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Smudge-proof","Long-lasting","Easy apply","Smooth"],
     benefits: ["Defined eyes","All day wear","Smooth lines","Beauty"]
   },
@@ -1388,7 +1388,7 @@ export const products: Product[] = [
     targetProblems: ["Eye Makeup"],
     dosage: "Apply as needed",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Long-lasting","Smudge-proof","Rich color","Easy apply"],
     benefits: ["Defined eyes","Long wear","Smooth","Beauty"]
   },
@@ -1404,7 +1404,7 @@ export const products: Product[] = [
     targetProblems: ["Sunburn","Dry Skin"],
     dosage: "Apply as needed",
     timing: "After sun",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["98% pure aloe","No colors","Lightweight","Quick absorb"],
     benefits: ["Soothes sunburn","Hydrates","Reduces redness","Healing"]
   },
@@ -1420,7 +1420,7 @@ export const products: Product[] = [
     targetProblems: ["Hair Fall","Dull Hair"],
     dosage: "Use as needed",
     timing: "Hair wash",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural extracts","Sulfate-free","Strengthens","Shine"],
     benefits: ["Less fall","Natural shine","Nourishes scalp","Strong roots"]
   },
@@ -1436,7 +1436,7 @@ export const products: Product[] = [
     targetProblems: ["Dull Skin","Pollution Damage"],
     dosage: "Twice daily",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Anti-pollution","Aloe enriched","Gentle","Removes impurities"],
     benefits: ["Pollution protection","Deep cleanse","Brightens","Rejuvenates"]
   },
@@ -1452,7 +1452,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Scalp","Hair Damage"],
     dosage: "Apply before wash",
     timing: "1 hour before",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Natural oils","Nourishes","Strengthens","Growth"],
     benefits: ["Nourishes scalp","Reduces damage","Adds shine","Strong roots"]
   },
@@ -1468,7 +1468,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Skin","Uneven Tone"],
     dosage: "Apply daily",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Deep moisture","Lightweight","Non-greasy","All types"],
     benefits: ["Moisturizes","Better texture","Natural glow","Dryness protection"]
   },
@@ -1484,7 +1484,7 @@ export const products: Product[] = [
     targetProblems: ["Oily Skin","Acne"],
     dosage: "Twice daily",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Deep cleanse","Controls oil","Prevents acne","Refreshes"],
     benefits: ["Removes impurities","Controls oil","Prevents breakouts","Fresh skin"]
   },
@@ -1500,7 +1500,7 @@ export const products: Product[] = [
     targetProblems: ["Gum Bleeding","Bad Breath"],
     dosage: "Twice daily",
     timing: "Morning and bed",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Neem & mint","Fluoride-free","Antibacterial","No sweeteners"],
     benefits: ["Strong gums","Fights breath","Prevents cavities","Whitens"]
   },
@@ -1516,7 +1516,7 @@ export const products: Product[] = [
     targetProblems: ["Dull Skin","Uneven Tone"],
     dosage: "Use as needed",
     timing: "During bath",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Saffron","Natural","Gentle","Luxurious"],
     benefits: ["Brightens","Improves tone","Cleanses","Glowing Skin"]
   },
@@ -1532,7 +1532,7 @@ export const products: Product[] = [
     targetProblems: ["Dry Skin","Rough Skin"],
     dosage: "Apply as needed",
     timing: "After bath",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Aloevera","Deep hydration","Non-greasy","Quick absorb"],
     benefits: ["Deep moisture","Soothes","Better texture","Soft skin"]
   },
@@ -1548,91 +1548,91 @@ export const products: Product[] = [
     targetProblems: ["Germ Protection"],
     dosage: "Use as needed",
     timing: "Hand washing",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Antibacterial","Gentle","Fragrance","Moisturizing"],
     benefits: ["Kills germs","Clean hands","No dryness","Soft hands"]
   },
 
   // =============================================
-  // 4. ANIMAL CARE (Annadatha Animal)
+  // 4. ANIMAL CARE (Annadaata Animal)
   // =============================================
   {
     id: "animal-cattle-feed",
-    name: "Annadatha Nutri Feed 38mm",
+    name: "Annadaata Nutri Feed 38mm",
     image: "/products/animal/cattlefeed.svg",
     description: "Nutritious cattle feed for healthy livestock.",
     category: "Animal Care",
     subcategory: "Cattle Feed",
-    brand: "Annadatha Animal",
+    brand: "Annadaata Animal",
     crops: [],
     targetProblems: ["Poor Milk Production","Weakness"],
     dosage: "As per animal weight",
     timing: "Daily with feed",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Balanced nutrition","High protein","Dairy cattle","Easy digest"],
     benefits: ["Better milk yield","Healthy animals","Strong immunity","Weight gain"]
   },
   {
     id: "animal-poultry-growth",
-    name: "Annadatha Poultry Growth Plus",
+    name: "Annadaata Poultry Growth Plus",
     image: "/products/animal/poultry.svg",
     description: "Growth supplement for poultry birds.",
     category: "Animal Care",
     subcategory: "Poultry Feed",
-    brand: "Annadatha Animal",
+    brand: "Annadaata Animal",
     crops: [],
     targetProblems: ["Low Growth Rate","Poor Egg Production"],
     dosage: "Mix in feed",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Growth boosters","Protein rich","Egg production","Healthy birds"],
     benefits: ["Faster growth","More eggs","Healthier birds","Better immunity"]
   },
   {
     id: "animal-goat-sheep-feed",
-    name: "Annadatha Goat Sheep Nutri Feed",
+    name: "Annadaata Goat Sheep Nutri Feed",
     image: "/products/animal/goatfeed.svg",
     description: "Special feed for goats and sheep.",
     category: "Animal Care",
     subcategory: "Goat & Sheep Feed",
-    brand: "Annadatha Animal",
+    brand: "Annadaata Animal",
     crops: [],
     targetProblems: ["Malnutrition","Low Weight"],
     dosage: "As per feed schedule",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Specific nutrition","Weight gain","Healthy coat","Easy digest"],
     benefits: ["Healthy weight","Shiny coat","Better health","Good growth"]
   },
   {
     id: "animal-aqua-fish-feed",
-    name: "Annadatha Aqua Fish Feed",
+    name: "Annadaata Aqua Fish Feed",
     image: "/products/animal/fishfeed.svg",
     description: "Nutritious feed for fish farming.",
     category: "Animal Care",
     subcategory: "Aqua Feed",
-    brand: "Annadatha Animal",
+    brand: "Annadaata Animal",
     crops: [],
     targetProblems: ["Slow Fish Growth","Poor Health"],
     dosage: "3-5% of body weight",
     timing: "2-3 times daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Balanced diet","High protein","Fast growth","Healthy fish"],
     benefits: ["Fast growth","Healthy fish","Better yield","Cost effective"]
   },
   {
     id: "animal-dog-food",
-    name: "Annadatha Dog Food",
+    name: "Annadaata Dog Food",
     image: "/products/animal/dogfood.svg",
     description: "Complete nutrition dog food for healthy pets.",
     category: "Animal Care",
     subcategory: "Pet Food",
-    brand: "Annadatha Animal",
+    brand: "Annadaata Animal",
     crops: [],
     targetProblems: ["Pet Nutrition"],
     dosage: "As per dog weight",
     timing: "Daily",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Complete nutrition","Tasty","Healthy coat","Strong bones"],
     benefits: ["Healthy pet","Shiny coat","Strong bones","Happy dog"]
   },
@@ -1652,7 +1652,7 @@ export const products: Product[] = [
     targetProblems: ["Need Refreshment"],
     dosage: "Use per cup",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Premium tea","Rich aroma","Perfect brew","Value pack"],
     benefits: ["Refreshing","Rich taste","Morning energy","Family pack"]
   },
@@ -1668,7 +1668,7 @@ export const products: Product[] = [
     targetProblems: ["Need Refreshment"],
     dosage: "Use per cup",
     timing: "Morning/evening",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Extra value","Premium tea","Rich aroma","Family size"],
     benefits: ["Refreshing","Great value","Rich taste","Economy pack"]
   },
@@ -1684,7 +1684,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "As per recipe",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Aromatic spices","Pure blend","Authentic taste","High quality"],
     benefits: ["Rich flavor","Authentic taste","Aromatic","Essential spice"]
   },
@@ -1700,7 +1700,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "Sprinkle as needed",
     timing: "Before serving",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Tangy taste","Perfect blend","Pure spices","Versatile"],
     benefits: ["Adds zing","Tangy flavor","Instant chaat","Snack enhancer"]
   },
@@ -1716,7 +1716,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "Add to chicken",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Ready to use","Rich spices","Tasty curry","Easy"],
     benefits: ["Delicious chicken curry","Restaurant taste","Time saver","Authentic"]
   },
@@ -1732,7 +1732,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "Add to dal",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Ready to use","Aromatic blend","Perfect taste","Traditional"],
     benefits: ["Tasty dal","Authentic flavor","Cook time saver","Family favorite"]
   },
@@ -1748,7 +1748,7 @@ export const products: Product[] = [
     targetProblems: ["Need Healthy Salt"],
     dosage: "Use as needed",
     timing: "During meals",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["100% pure","Mineral rich","Sprinkler pack","Natural"],
     benefits: ["Healthy alternative","Rich minerals","Better taste","Easy use"]
   },
@@ -1764,7 +1764,7 @@ export const products: Product[] = [
     targetProblems: ["Need Sweet"],
     dosage: "Serve as dessert",
     timing: "Anytime",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Traditional recipe","Pure ghee","Soft texture","Rich taste"],
     benefits: ["Authentic sweet","Festive favorite","Delicious","Gift ready"]
   },
@@ -1780,7 +1780,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "Add to taste",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Pure red chilli","High quality","Fine powder","Spicy"],
     benefits: ["Adds heat","Rich color","Authentic spice","Essential"]
   },
@@ -1796,7 +1796,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "Add to taste",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Pure chilli","Value pack","Fine powder","Spicy"],
     benefits: ["Spicy flavor","Rich color","Economy pack","Essential spice"]
   },
@@ -1812,7 +1812,7 @@ export const products: Product[] = [
     targetProblems: ["Healthy Cooking"],
     dosage: "For cooking",
     timing: "Meal prep",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Heart healthy","Vitamin E+","Neutral taste","Smoke point"],
     benefits: ["Healthy cooking","Cholesterol friendly","Light taste","Nutritious"]
   },
@@ -1828,7 +1828,7 @@ export const products: Product[] = [
     targetProblems: ["Healthy Cooking"],
     dosage: "For cooking",
     timing: "Meal prep",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Heart healthy","Vitamin E+","Family pack","Light taste"],
     benefits: ["Healthy cooking","Best value","Cholesterol friendly","Nutritious"]
   },
@@ -1844,7 +1844,7 @@ export const products: Product[] = [
     targetProblems: ["Healthy Cooking"],
     dosage: "For cooking",
     timing: "Meal prep",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Premium quality","Heart healthy","Vitamin E+","Smoke point"],
     benefits: ["Healthy cooking","Best quality","Nutritious","Light"]
   },
@@ -1860,7 +1860,7 @@ export const products: Product[] = [
     targetProblems: ["Quick Meal"],
     dosage: "Serve as needed",
     timing: "Any time",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Ready to eat","Tasty mix","Crispy","Convenient"],
     benefits: ["Quick meal","Tasty snack","Crispy","Easy"]
   },
@@ -1876,7 +1876,7 @@ export const products: Product[] = [
     targetProblems: ["Quick Meal"],
     dosage: "Serve hot",
     timing: "Any time",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Ready to eat","South Indian","Tasty","Convenient"],
     benefits: ["Quick meal","Authentic taste","Crispy","Easy to prepare"]
   },
@@ -1892,7 +1892,7 @@ export const products: Product[] = [
     targetProblems: ["Quick Meal"],
     dosage: "Heat and serve",
     timing: "Any time",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Ready to eat","Authentic","Shahi gravy","Convenient"],
     benefits: ["Quick meal","Restaurant taste","Easy","Festive dish"]
   },
@@ -1908,7 +1908,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "Add to veg",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["All-in-one","Vegetable blend","Authentic","Ready"],
     benefits: ["Perfect sabji","Easy cooking","Tasty","Essential"]
   },
@@ -1924,7 +1924,7 @@ export const products: Product[] = [
     targetProblems: ["Flavor Enhancement"],
     dosage: "For tempering",
     timing: "While cooking",
-    supplier: "Annadatha Traders",
+    supplier: "Annadaata Traders",
     features: ["Pure mustard","Small seeds","Aged rai","High quality"],
     benefits: ["Aroma","Authentic taste","Tempering","Essential spice"]
   },
