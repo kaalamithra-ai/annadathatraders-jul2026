@@ -21,7 +21,7 @@ export default function About() {
 
           {/* Why Choose Us */}
           <div className="bg-white p-8 rounded-lg shadow-md">
-            <h2 className="text-2xl font-bold text-gray-800 mb-6">Why Choose Annadatha Traders</h2>
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">Why Choose Annadaata Traders</h2>
 
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-lg">
