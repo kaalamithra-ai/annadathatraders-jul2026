@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-800 text-white py-8">
       <div className="bg-gray-700 dark:bg-gray-900 dark:text-gray-400 w-[90%] md:w-[33%] h-[53px] z-1 rounded-full flex items-center justify-between gap-2 fixed bottom-1 left-0 right-0 m-auto">
-        <a href="https://wa.me/917349656529?text=Hi there, we are coming through Annadatha Traders Website" target="_blank" className=" w-[55%] md:w-[48%] p-2 flex items-center justify-start  cursor-pointer active:bg-green-700 active:text-white rounded-full">
+        <a href="https://wa.me/917349656529?text=Hi there, we are coming through Annadaata Traders Website" target="_blank" className=" w-[55%] md:w-[48%] p-2 flex items-center justify-start  cursor-pointer active:bg-green-700 active:text-white rounded-full">
           <img src="/whatsapp3.png" className="h-[100%] w-[25%]" />
           <span className="w-[70%] pl-1 text-[97%] sm:text-md md:w-[65%]">WhatsApp Now</span>
         </a>
@@ -71,7 +71,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-4 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Annadatha Traders. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Annadaata Traders. All rights reserved.</p>
           <p>Powered by Kaalamithra AI Tech Solutions Private Limited</p>
         </div>
       </div><br/><br/>
